@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import NewsItems from "./NewsItems";
 import Spiner from "../Spiner.js";
 import PropTypes from "prop-types";
@@ -28,7 +28,7 @@ useEffect(() => {
 
   document.title = `${capitalizeFirstLetter(props.category)} - NewMonkey`;
 
-  const updateNews = async () => {
+  const updateNews = useCallback(async () => {
     props.setProgress(10);
     const apiKey = props.apikey; // fallback if env missing
     let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page}&pageSize=${props.pageSize}`;
@@ -43,14 +43,14 @@ useEffect(() => {
     setTotalResults(persondata.totalResults);
     setLoading(false);
     props.setProgress(100);
-  };
+  },[props, page])
   
   
 
 
 useEffect(() => {
     updateNews()
-  }, []);
+  }, [updateNews]);
 
   //    const handlePrevClick = async () => {
   //        updateNews();

@@ -12,13 +12,13 @@ import LoadingBar from "react-top-loading-bar";
 
 
 const App = () => {
-  const [pagesize, setPagesize] = useState(15)
+  const [pagesize] = useState(15)
   const [progres, setProgres] = useState(0)
   const apikey = process.env.REACT_APP_NEWS_API
   const setProgress = (progress) => {
     setProgres(progress)
   }
-  const [country, setCountry] = useState('us')
+  const [country] = useState('us')
   const [searchQuery, setSearchQuery] = useState("");
 
 

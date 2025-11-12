@@ -38,6 +38,7 @@ const NewsItems =(props)=> {
               href={props.newsUrl}
               target='_blank'
               className='btn btn-sm btn-primary'
+              rel="noreferrer"
             >
               Read More
             </a>
