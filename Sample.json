@@ -1,0 +1,68 @@
+{
+
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+         {
+           
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Noticias DW",
+            "title": "El hongkonés Jimmy Lai es nombrado Héroe Mundial por el IPI",
+            "description": "El galardón se entregará el 24 de octubre en Viena, durante el Congreso Mundial del IPI, y será recibido por su hijo Sebastien Lai. El magnate de los medios hongkonés Jimmy Lai fue reconocido como Héroe Mundial de la Libertad de Prensa informó este martes (14…",
+            "url": "https://www.dw.com/es/el-hongkon%C3%A9s-jimmy-lai-es-nombrado-h%C3%A9roe-mundial-por-el-ipi/a-74358511",
+            "urlToImage": "https://static.dw.com/image/69760450_6.jpg",
+            "publishedAt": "2025-10-15T03:16:00Z",
+            "content": "El magnate de los medios hongkonés Jimmy Lai fue reconocido como Héroe Mundial de la Libertad de Prensa informó este martes (14.10.2025) el Instituto Internacional de la Prensa (IPI) y el Internation… [+2917 chars]"
+        },
+        
+        {
+           
+            "source": {
+                "id": null,
+                "name": "Softantenna.com"
+            },
+            "author": "saadmin",
+            "title": "Apple、iOS 26.1、iPadOS 26.1、macOS Tahoe 26.1のPublic Beta 3を公開",
+            "description": "Appleは本日、iOS 26.1、iPadOS 26.1、macOS Tahoe 26.1のPublic Beta 3を公開しました(MacRumors)。 Apple Beta Software Programに参加しているベータテスタ",
+            "url": "https://softantenna.com/blog/ios-26-1-public-beta-2-2/",
+            "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2025/07/CleanShot-2025-07-25-at-10.06.14.jpg",
+            "publishedAt": "2025-10-15T01:18:13Z",
+            "content": "AppleiOS 26.1iPadOS 26.1macOS Tahoe 26.1Public Beta 3(MacRumors)\r\nApple Beta Software Program &gt; &gt; &gt; \r\nApple Beta Software Program\r\niOS 26.1iPadOS 26.1macOS Tahoe 26.1Apple Intelligence()AirP… [+4 chars]"
+        },
+        
+        {
+           
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "bloomberg.com",
+            "title": "Apple to Build Upcoming HomePod With Screen, Tabletop Robot in Vietnam",
+            "description": "",
+            "url": "https://biztoc.com/x/e127865953ca1fb1",
+            "urlToImage": "https://biztoc.com/cdn/e127865953ca1fb1_s.webp",
+            "publishedAt": "2025-10-15T00:03:20Z",
+            "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Goldman Sachs cutting jobs with AI overhaul? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;What caused GM's $1.6… [+764 chars]"
+        },
+        
+   
+        
+        {
+           
+            "source": {
+                "id": null,
+                "name": "KCCI Des Moines"
+            },
+            "author": null,
+            "title": "$18.5M recovery center aims to fill behavioral health care gap in Iowa",
+            "description": "Community & Family Resources is expanding behavioral health care options for young people and families with Grays Woods Recovery Center.",
+            "url": "https://www.kcci.com/article/grays-woods-recovery-center-des-moines/69033718",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/e0682491-8068-4d77-ad5e-90f265f113d8/520e00bb-8a45-44f7-a896-57f8a473258b.jpg?crop=0.780xw:0.777xh;0.150xw,0&resize=1200:*",
+            "publishedAt": "2025-10-15T00:43:11Z",
+            "content": "DES MOINES, Iowa —Fort Dodge-based Community &amp; Family Resources broke ground Tuesday on the Grays Woods Recovery Center in Des Moines, offering a new option for behavioral health care in central … [+1021 chars]"
+        }
+    ]
+}
